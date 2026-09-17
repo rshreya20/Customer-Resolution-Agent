@@ -1,4 +1,4 @@
-# Customer-Facing Resolution Agent — Assignment 3
+# Customer-Facing Resolution Agent
 
 A simple, runnable prototype for the airline-disruption assignment.
 
